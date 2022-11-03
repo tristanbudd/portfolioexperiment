@@ -21,7 +21,7 @@ p {
   animation-name: slidein;
   animation-iteration-count: infinite;
   animation-direction: reverse;
-  -webkit-animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: backwards;
 }
 
 @keyframes slidein {
