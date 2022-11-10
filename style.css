@@ -13,10 +13,10 @@
   }
   
 body {
-	background-image: url("img/background.jpg");
-	overflow: hidden;
-	background-size: cover;
-        background-repeat: no-repeat;
+    background-image: url("img/background.jpg");
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 input[type=text] {
