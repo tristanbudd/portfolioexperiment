@@ -11,12 +11,13 @@
     align-items: center;
     text-align: center;
   }
-  
+
 body {
     background-image: url("img/background.jpg");
-    overflow: hidden;
+    overflow-x: hidden;
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: black;
 }
 
 input[type=text] {
